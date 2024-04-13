@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'stars': "url('assets/images/stars.png')"
+        'stars': "url('/assets/images/stars.png')"
       },
       colors: {
         blue: "#2997FF",
