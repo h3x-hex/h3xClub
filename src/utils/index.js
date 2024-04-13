@@ -42,7 +42,7 @@ import frame from "/assets/images/frame.png";
 import g3n3sisCollection from "/assets/images/g3n3sis.jpg";
 
 export const heroVideo = hmv;
-export const smallHeroVideo = smallmv;
+
 export const highlightFirstVideo = highlightFirstmv;
 export const highlightSecondVideo = highlightSectmv;
 export const highlightThirdVideo = highlightThirdmv;
