@@ -80,16 +80,9 @@ const HowItWorks = () => {
           <p className="text-gray font-semibold text-center mt-3"></p>
           </div>
 
-          <div className="hiw-text-container">
-                <div className="flex flex-1 justify-center flex-col">
-                  <p className="hiw-text">
-                    
-                    <span className="text-white">
-                      
-                    </span>
-                  </p>
-
-                  <p className="hiw-text">
+          <div className="feature-text-container">
+                <div className="feature-text">
+                  <p className='feature-text g_text'>
                    Orbiting around Earth is the central hub of h
                     <span className="text-yellow-600">
                      3
@@ -98,11 +91,7 @@ const HowItWorks = () => {
                     <span className="text-yellow-600">
                      3
                     </span>
-                    rse the h
-                    <span className="text-yellow-600">
-                     3
-                    </span>
-                    xStation.
+                    rse.
                     <br></br>
                     h
                     <span className="text-yellow-600">

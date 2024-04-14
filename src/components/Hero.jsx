@@ -27,9 +27,9 @@ const Hero = () => {
 
   return (
     <section className="w-full bg-black relative ">
-      <div className="h-5/6 w-full flex-center flex-col">
-        <div className="md:w-full w-full">
-          <video className="pointer-events-none" autoPlay loop muted playsInline={true} key={videoSrc}>
+      <div className="h-5/6 w-full screen-max-width flex-center flex">
+        <div className="w-full video-container">
+          <video autoPlay loop muted playsInline={true} key={videoSrc}>
             <source src={videoSrc} type="video/mp4" />
           </video>
         </div>

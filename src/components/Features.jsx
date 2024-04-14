@@ -66,8 +66,7 @@ const Features = () => {
               </div>
 
               <div className="feature-text-container">
-                <div className="">
-                  <p className="feature-text g_text">
+                  <p className="feature-text">
                     H
                     <span className="text-yellow-600">
                       3
@@ -131,8 +130,6 @@ const Features = () => {
                     </span>
                     y. 
                   </p>
-                </div>
-
               </div>
             </div>
           </div>
